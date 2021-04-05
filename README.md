@@ -7,7 +7,7 @@ i like learning it feels like Always new things out there to learn 💻**
 
 - ⚡ My personal page can say few things about me: https://soukaina-first-personal-webpage.netlify.app
 - 📫 You can always reach me on: zekrisoukaina@gmail.com
-- 👩‍💻 Am also in linkin: https://www.linkedin.com/in/soukaina-zekri-8460b618a/
+- 👩‍💻 Am also in linkedin: https://www.linkedin.com/in/soukaina-zekri-8460b618a/
 - 🌱 I’m currently learning vanillajs, Typescript and React Native.  
 
 **Language and Tools:**
