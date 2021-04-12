@@ -5,7 +5,7 @@
 **Am Junior developer 👩‍💻 i got my bachelors in computer science in Morocco and moved to Amsterdam since 2017
 i like learning it feels like Always new things out there to learn 💻**
 
-Download SVGPerfect for when you want to use just one icon as a vector on the desktop or in your own icon workflow.
+
 - ⚡ My personal page can say few things about me: https://soukaina-first-personal-webpage.netlify.app
 - 📫 You can always reach me on: zekrisoukaina@gmail.com
 - 👩‍💻 Am also in linkedin: https://www.linkedin.com/in/soukaina-zekri-8460b618a/
