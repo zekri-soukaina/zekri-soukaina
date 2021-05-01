@@ -5,9 +5,11 @@
 **Am Junior developer 👩‍💻 i got my bachelors in computer science in Morocco and moved to Amsterdam since 2017
 i like learning it feels like Always new things out there to learn 💻**
 
-
+## About me
+- 🇲🇦 🇳🇱
 - ⚡ My personal page can say few things about me: https://soukaina-first-personal-webpage.netlify.app
 - 📫 You can always reach me on: zekrisoukaina@gmail.com
+- 🎓 background Bachelor's Degree on Computer Science
 - 👩‍💻 Am also in linkedin: https://www.linkedin.com/in/soukaina-zekri-8460b618a/
 - 🌱 I’m currently learning vanillajs, Typescript and React Native.  
 
